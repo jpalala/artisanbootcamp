@@ -1,3 +1,5 @@
+![ArtisanBootcamp](Artisanbootcamp-xyz-3-17-2024.png)
+
 # ArtisanBootCamp
 
 Simple curriculum to learn laravel from the docs!
