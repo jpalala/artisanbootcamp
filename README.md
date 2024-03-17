@@ -66,9 +66,10 @@ Learn about Laravel's built-in tools and features, such as command-line tools, B
 
 ### 9. Best practices and debugging
 
-- **Laravel Documentation**: [Best Practices](https://laravel.com/docs/best-practices)
-- **Laravel Documentation**: [Debugging](https://laravel.com/docs/debugging)
-  
+  - **Dev.to**: [Best Practices by Sospeter Mongare](https://dev.to/msnmongare/laravel-best-practices-d37)
+  - **LaraDumps.dev**: [Laradumps app](https://laradumps.dev/get-started/what-is-laradumps)
+  - **Clockwork**: [Clockwork PHP Dev tools](https://github.com/itsgoingd/clockwork)
+
 Learn about best practices for coding in Laravel. Understand how to use Laravel's built-in debugging tools. Practice using these tools to debug a simple application.
 
 ### 10. Final project
