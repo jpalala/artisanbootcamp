@@ -2,6 +2,7 @@
 
 Simple curriculum to learn laravel from the docs!
 
+**Lesson Plan with exercises:** https://gist.github.com/jpalala/672c5e470127c79396c5e22e1d047a2f
 ___
 
 Here are the markdown outputs for each topic along with the corresponding links to the Laravel documentation:
@@ -75,3 +76,4 @@ Learn about best practices for coding in Laravel. Understand how to use Laravel'
 Build a simple web application using Laravel. Apply what you've learned throughout the boot camp to create a functional application. Receive feedback and support from the instructor or mentor to improve your application.
 
 By following these topics and exercises, a beginner should have a solid foundation in Laravel and be able to build simple web applications. Of course, there's always more to learn, and further practice and experimentation are encouraged to become proficient in Laravel.
+
